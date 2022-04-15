@@ -15,7 +15,7 @@
 					Target = 0
 					Destination = 0
 					Subdirectory = 
-					FolderItem = Li4vLi4vLi4vLi4vLi4vLi4vQXBwbGljYXRpb25zL1hvam8lMjAyMDIyJTIwUmVsZWFzZSUyMDEvRXhhbXBsZSUyMFByb2plY3RzL1dlYi9Db250cm9scy90aW1lc2VyaWVzLmpzb24=
+					FolderItem = Li4vdGltZXNlcmllcy5qc29u
 				End
 			End
 			Begin BuildStepList Windows
@@ -31,7 +31,7 @@
 					Target = 0
 					Destination = 0
 					Subdirectory = 
-					FolderItem = Li4vLi4vLi4vLi4vLi4vLi4vQXBwbGljYXRpb25zL1hvam8lMjAyMDIyJTIwUmVsZWFzZSUyMDEvRXhhbXBsZSUyMFByb2plY3RzL1dlYi9Db250cm9scy90aW1lc2VyaWVzLmpzb24=
+					FolderItem = Li4vdGltZXNlcmllcy5qc29u
 				End
 			End
 #tag EndBuildAutomation

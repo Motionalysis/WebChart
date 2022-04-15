@@ -54,6 +54,9 @@ Begin WebPage WebPage1
       Top             =   44
       Visible         =   False
       Width           =   463
+      xmax            =   0
+      xmin            =   10
+      xstepsize       =   1
       _mMode          =   0
       _mPanelIndex    =   -1
    End
@@ -65,7 +68,7 @@ Begin WebPage WebPage1
       FontSize        =   0.0
       Height          =   38
       Index           =   -2147483648
-      indicator       =   0
+      Indicator       =   0
       Italic          =   False
       Left            =   50
       LockBottom      =   False
@@ -76,10 +79,8 @@ Begin WebPage WebPage1
       LockTop         =   True
       LockVertical    =   False
       Multiline       =   False
-      PanelIndex      =   0
       Scope           =   0
       TabIndex        =   2
-      TabStop         =   True
       Text            =   "Total TimeSlice"
       TextAlignment   =   0
       TextColor       =   &c00000000
@@ -98,7 +99,7 @@ Begin WebPage WebPage1
       FontSize        =   0.0
       Height          =   38
       Index           =   -2147483648
-      indicator       =   0
+      Indicator       =   0
       Italic          =   False
       Left            =   241
       LockBottom      =   False
@@ -109,10 +110,8 @@ Begin WebPage WebPage1
       LockTop         =   True
       LockVertical    =   False
       Multiline       =   False
-      PanelIndex      =   0
       Scope           =   0
       TabIndex        =   3
-      TabStop         =   True
       Text            =   "Stamps"
       TextAlignment   =   0
       TextColor       =   &c00000000
@@ -131,7 +130,7 @@ Begin WebPage WebPage1
       FontSize        =   0.0
       Height          =   38
       Index           =   -2147483648
-      indicator       =   0
+      Indicator       =   0
       Italic          =   False
       Left            =   344
       LockBottom      =   False
@@ -142,10 +141,8 @@ Begin WebPage WebPage1
       LockTop         =   True
       LockVertical    =   False
       Multiline       =   False
-      PanelIndex      =   0
       Scope           =   0
       TabIndex        =   4
-      TabStop         =   True
       Text            =   "Secs"
       TextAlignment   =   0
       TextColor       =   &c00000000
@@ -164,7 +161,7 @@ Begin WebPage WebPage1
       FontSize        =   0.0
       Height          =   38
       Index           =   -2147483648
-      indicator       =   0
+      Indicator       =   0
       Italic          =   False
       Left            =   388
       LockBottom      =   False
@@ -175,10 +172,8 @@ Begin WebPage WebPage1
       LockTop         =   True
       LockVertical    =   False
       Multiline       =   False
-      PanelIndex      =   0
       Scope           =   0
       TabIndex        =   5
-      TabStop         =   True
       Text            =   "100000"
       TextAlignment   =   0
       TextColor       =   &c00000000
@@ -197,7 +192,7 @@ Begin WebPage WebPage1
       FontSize        =   0.0
       Height          =   38
       Index           =   -2147483648
-      indicator       =   0
+      Indicator       =   0
       Italic          =   False
       Left            =   162
       LockBottom      =   False
@@ -208,10 +203,8 @@ Begin WebPage WebPage1
       LockTop         =   True
       LockVertical    =   False
       Multiline       =   False
-      PanelIndex      =   0
       Scope           =   0
       TabIndex        =   6
-      TabStop         =   True
       Text            =   "00:00:00"
       TextAlignment   =   0
       TextColor       =   &c00000000
@@ -230,7 +223,7 @@ Begin WebPage WebPage1
       FontSize        =   0.0
       Height          =   38
       Index           =   -2147483648
-      indicator       =   0
+      Indicator       =   0
       Italic          =   False
       Left            =   299
       LockBottom      =   False
@@ -241,10 +234,8 @@ Begin WebPage WebPage1
       LockTop         =   True
       LockVertical    =   False
       Multiline       =   False
-      PanelIndex      =   0
       Scope           =   0
       TabIndex        =   7
-      TabStop         =   True
       Text            =   "1000"
       TextAlignment   =   0
       TextColor       =   &c00000000
@@ -284,7 +275,6 @@ Begin WebPage WebPage1
       SelectedRowColor=   &c0272D300
       SelectedRowIndex=   0
       TabIndex        =   8
-      TabStop         =   True
       Tooltip         =   ""
       Top             =   66
       Visible         =   False
